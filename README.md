@@ -25,8 +25,11 @@
 - 파일을 선택하면 아래 이미지와 같이 나타냅니다(비디오 파일 선택 시, 아래 이미지와 같이 나타내지 않을 수 있습니다.)
 <img width="30%" src="https://user-images.githubusercontent.com/48400348/170215348-297da62a-0561-47ca-99e0-3ca066c57dd0.png">
 
-- 최종적으로 "파일 업로드" 버튼을 클릭하면 성공적으로 클라우드에 업로드됩니다.
+- "파일 업로드" 버튼을 클릭합니다.
 <img width="30%" src="https://user-images.githubusercontent.com/48400348/170215572-18e4cfda-8e1a-48c2-afdf-15a3dba6f4bb.png">
+
+- 업로드하는 중에 ProgressBar가 나타내어 얼마나 업로드되는지 알 수 있습니다. 업로드 완료되면 성공적으로 클라우드에 업로드되었습니다.
+<img width="30%" src="https://user-images.githubusercontent.com/48400348/170216372-d53738d8-0ec4-4197-aa1e-b7a5c9cdfcc8.png">
 
 ### 설치된 라이브러리
 - firebase_core
