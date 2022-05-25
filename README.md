@@ -1,4 +1,4 @@
-# Firebase Storage에 업로드하는 플러터 앱
+# Firebase Storage에 있는 항목을 다운로드하거나 스토리지에 업로드하는 앱
 
 ## 사용법
 
