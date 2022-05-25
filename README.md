@@ -13,5 +13,25 @@
 <img width="30%" src="https://user-images.githubusercontent.com/48400348/170213964-cb69ed97-25bb-43ee-b1fb-5ef3c7f6006a.png">
 
 ## 업로드
+- 하단 메뉴의 업로드 부분을 클릭합니다.
+<img width="30%" src="https://user-images.githubusercontent.com/48400348/170214506-7011d7b0-0f6d-4b2f-8c06-77416f896955.png">
+
+- "파일 선택" 버튼을 클릭합니다.
+<img width="30%" src="https://user-images.githubusercontent.com/48400348/170214837-6d731877-826a-4879-9d2e-dfd281582117.png">
+
+- 업로드할 이미지나 비디오를 선택합니다.
+<img width="30%" src="https://user-images.githubusercontent.com/48400348/170215056-47b79240-0a34-4324-859a-d26b954e2863.png">
+
+- 파일을 선택하면 아래 이미지와 같이 나타냅니다(비디오 파일 선택 시, 아래 이미지와 같이 나타내지 않을 수 있습니다.)
+<img width="30%" src="https://user-images.githubusercontent.com/48400348/170215348-297da62a-0561-47ca-99e0-3ca066c57dd0.png">
+
+- 최종적으로 "파일 업로드" 버튼을 클릭하면 성공적으로 클라우드에 업로드됩니다.
+<img width="30%" src="https://user-images.githubusercontent.com/48400348/170215572-18e4cfda-8e1a-48c2-afdf-15a3dba6f4bb.png">
 
 ### 설치된 라이브러리
+- firebase_core
+- firebase_storage
+- path_provider
+- gallery_saver
+- dio
+- file_picker
